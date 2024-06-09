@@ -4,6 +4,7 @@ function Footer() {
   return (
     <div>
       Footer @ Copy right
+      <p>Girish Girijan</p>
     </div>
   )
 }
